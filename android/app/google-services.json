@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071358971537",
+    "project_id": "gemini-api-competetion",
+    "storage_bucket": "gemini-api-competetion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071358971537:android:2b9f982c31eca55f76f930",
+        "android_client_info": {
+          "package_name": "com.example.fashion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtI4SmDiJlSUiDcKhYPSK8oJ5sT0KaPdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
